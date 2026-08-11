@@ -1,0 +1,6 @@
+# Node.js dependencies (re-installed with "npm install")
+node_modules/
+
+# Playwright output
+test-results/
+playwright-report/

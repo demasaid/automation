@@ -72,6 +72,11 @@ exercise. I want to be fully transparent about how:
 - **We debugged together:** when the browser failed to launch, I investigated
   the error with the AI's help and solved it by switching to Edge
   (`channel: 'msedge'`).
+- **For the analysis part (the billing screen questions), the thinking and the
+  solutions are entirely my own.** I found all the problems myself, wrote the
+  test cases myself, and came up with the fix for the most severe bug (the
+  missing CVV field) myself. The AI only helped me phrase and organize my
+  answers clearly — it did not do the analysis for me.
 - I reviewed and understood the full solution before submitting it.
 
 In short, the AI helped me learn faster and understand the tools, but the
